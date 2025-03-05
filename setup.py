@@ -20,7 +20,7 @@ with open('README.md', 'r', encoding='utf-8') as f:
 
 __version__ = "0.0.1"
 REPO_NAME = "MongoDB-Connector"
-PKG_NAME= "MongoConnector"
+PKG_NAME= "databaseautomation"
 AUTHOR_USER_NAME = "AgentAhmed"
 AUTHOR_EMAIL = "ahmed.mca18@gmail.com"
 
