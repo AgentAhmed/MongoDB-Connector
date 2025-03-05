@@ -13,9 +13,10 @@ requirements.txt is used to specify the dependencies required to run the product
 
 We use if for the testing in the python package testing against different version of the python
 
-how tox works tox enviornment creation
+## how tox works tox enviornment creation
 
 Install depedencies and packages
+
 Run commands
 Its a combination of the (virtualenvwrapper and makefile)
 It creates a .tox
